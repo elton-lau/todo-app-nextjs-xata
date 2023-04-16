@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Elton-Lau-s-workspace-m1d5rc.us-east-1.xata.sh/db/todo-app",
+  "codegen": {
+    "output": "util/xata.ts"
+  }
+}
